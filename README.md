@@ -159,8 +159,7 @@ Content-Length: 251
   "title": "The Beauty of Nature's Serenade",
   "content": "Amidst lush meadows, I found solace in nature's embrace. Each flower whispered secrets, trees danced with the breeze, and the river sang its eternal song.",
   "author": "Sura"
-}
-
-  - `'Failed to put the blog post'`: An error occurred while updating a blog post with wrong id.
-  
+}  
 </pre>
+
+- `'Failed to put the blog post'`: An error occurred while updating a blog post with wrong id.
