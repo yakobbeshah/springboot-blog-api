@@ -2,7 +2,7 @@
 This Blog post api is build using a Java language by using a well know framework called spring boot which is built on top of the spring framework with Object-Relational database management systme called Postgresql.
 
 This simple Blog api can perform the 4 basic CRUD Database operation which is :-
-<ul type="disc">
+<ul>
 <ls>creat a single blog</ls>
 <ls>read a sing blog by id</ls>
 <ls>read an entire blog</ls>
