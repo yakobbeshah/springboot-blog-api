@@ -3,10 +3,10 @@ This Blog post api is build using a Java language by using a well know framework
 
 This simple Blog api can perform the 4 basic CRUD Database operation which is :-
 - creat a single blog
-- read a sing blog by id
+- read a single blog by id
 - read an entire blog
-- update a sing blog by id
-- and delet a sing blog by id
+- update a single blog by id
+- and delet a single blog by id
 
 ## Each api requests and their resposnse end points 
 
