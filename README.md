@@ -9,8 +9,9 @@ This simple Blog api can perform the 4 basic CRUD Database operation which is :-
 <ls>update a sing blog by id</ls>
 <ls>and delet a sing blog by id</ls>
 </ul>
+
 ## Each api requests and their resposnse end points 
-<br/>
+
 ### 1, <b>GET all blogs</b>
 This single end point is responsible for fetching all blog from a database .
 And it must return all blogs in the database in a json format.
