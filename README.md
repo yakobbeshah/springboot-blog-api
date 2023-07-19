@@ -132,7 +132,7 @@ Content-Length: 252
 </pre>
 
 - `'Failed to post a blog post'`: An error occurred while posting a new blog post.
-- - `'forbidden  request'`: An error occurred while trying to post more than one blog post at a time.
+- `'forbidden  request'`: An error occurred while trying to post more than one blog post at a time.
 
 ### 5, PUT a single blog by id
 This single api end point is responsible for updating an already created blog with the specified id.
